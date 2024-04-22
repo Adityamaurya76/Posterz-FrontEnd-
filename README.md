@@ -8,3 +8,5 @@
 ssets/118655919/4a18df29-c9e5-40a1-a731-fdbc7600d41b)
 ![Screenshot (323) - Copy](https://github.com/Adityamaurya76/Posterz-FrontEnd-/assets/118655919/6de0b51b-ec36-477c-8cbe-aa32e6037300)
 
+![Screenshot (322) - Copy](https://github.com/Adityamaurya76/Posterz-FrontEnd-/assets/118655919/be8f403c-7522-4830-b900-ea6ebd29dc01)
+![Screenshot (348)](https://github.com/Adityamaurya76/Posterz-FrontEnd-/assets/118655919/5c7f4925-e0fd-4f73-b74a-dd0b586fad01)
